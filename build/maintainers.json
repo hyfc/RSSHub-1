@@ -497,7 +497,7 @@
     "HenryQW",
     "kt286"
   ],
-  "/apple/podcast/:id/:region?": [
+  "/apple/podcast/:id": [
     "Acring"
   ],
   "/appleinsider/:category?": [
@@ -2204,6 +2204,9 @@
   "/fastbull/news": [
     "nczitzk"
   ],
+  "/fastbull/": [
+    "nczitzk"
+  ],
   "/fda/cdrh/:titleOnly?": [],
   "/fediverse/timeline/:account": [
     "DIYgod",
@@ -2302,9 +2305,6 @@
   ],
   "/followin/topic/:topicId/:lang?": [
     "TonyRL"
-  ],
-  "/foodtalks/": [
-    "Geraldxm"
   ],
   "/foresightnews/article": [
     "nczitzk"
@@ -3497,15 +3497,6 @@
   "/ifi-audio/download/:val/:id": [
     "EthanWng97"
   ],
-  "/ifun/n/category/:id?": [
-    "nczitzk"
-  ],
-  "/ifun/n/search/:keywords": [
-    "nczitzk"
-  ],
-  "/ifun/n/tag/:name": [
-    "nczitzk"
-  ],
   "/iguoguo/html5": [
     "yuxinliu-alex"
   ],
@@ -4619,8 +4610,7 @@
     "lessmoe"
   ],
   "/newrank/wechat/:wxid": [
-    "lessmoe",
-    "pseudoyu"
+    "lessmoe"
   ],
   "/news/xhsxw": [
     "nczitzk"
@@ -5184,9 +5174,6 @@
   "/parliament.uk/lordslibrary/type/:topic?": [
     "AntiKnot"
   ],
-  "/parliament.uk/petitions/:state?": [
-    "nczitzk"
-  ],
   "/patagonia/new-arrivals/:category": [],
   "/patreon/:creator": [
     "TonyRL"
@@ -5263,9 +5250,6 @@
   ],
   "/pingwest/user/:uid/:type?/:option?": [
     "sanmmm"
-  ],
-  "/pinterest/user/:username/:type?": [
-    "TonyRL"
   ],
   "/pixabay/search/:q/:order?": [
     "TonyRL"
